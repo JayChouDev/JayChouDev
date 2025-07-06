@@ -1,27 +1,32 @@
-<h1 align="center">👋 Opa! Eu sou o JayChouDev</h1>
+<h1 align="center">JayChouDev 👨‍💻</h1>
 
 <p align="center">
-  <i>🚀 Desenvolvedor Front-End apaixonado por tecnologia, design, IA e código limpo.</i><br/>
-  <i>🧠 Estudando programação há quase 2 anos e sempre aprendendo algo novo!</i>
+  <i>Desenvolvedor Front-End apaixonado por design, código limpo e criar coisas fodas.</i><br/>
+  <i>Estudando programação há quase 2 anos — e ainda com fome de mais!</i>
 </p>
 
-<img align="right" src="https://media4.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" height="200" alt="Coding gif"/>
-
-## 🛠️ Techs que eu manjo:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-</div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" height="200" />
+</p>
 
 ---
 
-## 📫 Me encontra aqui:
+## 🚀 Techs que eu uso:
 
-<div align="left">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40"/>
+</p>
+
+---
+
+## 🌐 Me encontra por aqui:
+
+<p align="center">
   <a href="https://www.instagram.com/kaua_mh1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -34,17 +39,15 @@
   <a href="https://www.linkedin.com/in/kauã-medeiros-3495a0344" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-## ⚡ Um pouco mais sobre mim
+## 💡 Sobre mim
 
-- 🔥 Curioso e viciado em aprender.
-- 🖤 Anime, IA, interfaces estilosas e código bem feito.
-- 💡 Sempre explorando novas ideias e projetos criativos.
-- 🧩 Em busca do próximo desafio tech.
-
----
-
-> “Me avisaram sobre o sol... eu queria incendiar o céu.” — <i>Anjo Ícaro</i> ☀️🪽
+- 📍 Nome: Kauã Medeiros
+- 🧠 Full Stack em construção
+- 🔥 Trabalhando com Java, JS, React, Tailwind
+- 🧩 Criei projetos como: ChatBot IA, Bio Profile, IMC, Kanban Interativo
+- 🕹️ Viciado em anime, café e interface estilosa
+- 🪽 *"Me avisaram sobre o sol... Eu queria incendiar o céu."* — Anjo Ícaro
